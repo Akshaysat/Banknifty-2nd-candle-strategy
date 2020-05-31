@@ -1,0 +1,1 @@
+# Banknifty-2nd-candle-strategy
